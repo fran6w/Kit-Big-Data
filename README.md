@@ -5,7 +5,7 @@
 
 #### Mastère Spécialisé® Intelligence Artificielle
 
-**Kit Data Science Télécom Paris** - Francis Wolinski
+**Kit Big Data Télécom Paris** - Francis Wolinski
 
 Plan des sessions
 
