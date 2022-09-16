@@ -10,8 +10,8 @@
 Plan des sessions
 
 - **Session 1** : Setup, environnement de dev, bases de Python (7/09) [[plan](session1.md)]
-- **Session 2** : Introduction à Numpy et à Pandas (13/09) [[plan](session2.md)]
-- **Session 3** : Traitement des données avec Pandas (22/09)
+- **Session 2** : Introduction à Numpy et à pandas (13/09) [[plan](session2.md)]
+- **Session 3** : Traitement des données avec pandas (22/09) [[plan](session3.md)]
 - **Session 4** : Parsing XML, Web scraping et API (29/09)
 - **Session 5** : Manipulation de données avancées (6/10)
 - **Session 6** : Séries temporelles et visualisation (12/10)
