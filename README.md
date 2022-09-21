@@ -17,7 +17,6 @@ Plan des sessions
 - **Session 6** : Séries temporelles et visualisation (12/10)
 - **Projet final** : dates à définir
 
-
+**Les projets doivent être rendus au plus tard la veille du cours suivant.**
 
 [Ressources](links.md)
-
