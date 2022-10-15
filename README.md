@@ -13,8 +13,8 @@ Plan des sessions
 - **Session 2** : Introduction à Numpy et à pandas (13/09) [[plan](session2.md)]
 - **Session 3** : Traitement des données avec pandas (22/09) [[plan](session3.md)]
 - **Session 4** : Parsing XML, Web scraping et API (29/09)) [[plan](session4.md)]
-- **Session 5** : Manipulation de données avancées (6/10) [[plan](session5.md)]
-- **Session 6** : Séries temporelles et visualisation (12/10)
+- **Session 5** : Manipulation de données avancées (12/10) [[plan](session5.md)]
+- **Session 6** : Séries temporelles et visualisation (21/10) [[plan](session6.md)]
 - **Projet final** : dates à définir
 
 **Les projets doivent être rendus au plus tard la veille du cours suivant.**
