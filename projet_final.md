@@ -80,6 +80,7 @@ def save_with_xlwings(file):
     excel_app.quit()
     return tempfile
 ```
+9. Comment peut-on lire avec **pandas** les fichiers Excel téléchargés ? Il faut ensuite utiliser la fonction `pandas.read_excel()`.
 
 **Avertissement**
 
