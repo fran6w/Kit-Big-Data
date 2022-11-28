@@ -72,7 +72,7 @@ import xlwings as xw
 
 # lecture/écriture d'un fichier Excel avec xlwings
 def save_with_xlwings(file):
-    tempfile = './{uuid.uuid1()}.xlsx'
+    tempfile = f'./{uuid.uuid1()}.xlsx'
     excel_app = xw.App(visible=False)
     excel_book = excel_app.books.open(file)
     excel_book.save(tempfile)
