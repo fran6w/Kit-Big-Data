@@ -81,7 +81,7 @@ def save_with_xlwings(file):
     return tempfile
 ```
 9. Comment peut-on lire avec **pandas** les fichiers Excel téléchargés ? Il faut ensuite utiliser la fonction `pandas.read_excel()`.
-10. Le chargement des fichiers Excel est très lent avec pandas, que peut-on faire ? Pour accélérer le processus, vous pouvez ensuite les enregistrer au format pickle. Mais attention ce format n'est pas pérenne et il peut pas généralement être partagé.
+10. Le chargement des fichiers Excel est très lent avec **pandas**, que peut-on faire ? Pour accélérer le processus, vous pouvez ensuite les enregistrer au format pickle. Mais attention ce format n'est pas pérenne et il ne peut pas généralement être partagé.
 11. Dans la partie analyse et story telling, doit-on effectuer tout les points que vous citez ou on peut choisir un point qui nous intéresse en particulier et l'approfondir ? Il vaut quand même mieux traiter plusieurs points et que cela ne vous empêche pas d'en approfondir un en particulier.
 
 **Avertissement**
